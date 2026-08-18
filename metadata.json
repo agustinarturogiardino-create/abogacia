@@ -1,0 +1,6 @@
+{
+  "name": "Derecho en Propiedades",
+  "description": "Estudio jurídico especializado en Derechos Reales, compra de derechos hereditarios, juicios reivindicatorios y recuperación de inmuebles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

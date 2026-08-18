@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="35 65 930 250" preserveAspectRatio="xMidYMid meet">
+  <g fill="#FFFFFF" stroke="#FFFFFF">
+    <!-- Left Roof (First Techito) -->
+    <polygon points="40,310 380,70 405,88 85,310" />
+    <polygon points="380,70 680,310 655,310 380,95" />
+    
+    <!-- Right Roof (Second Techito) -->
+    <polygon points="260,310 620,70 645,88 300,310" />
+    <polygon points="620,70 960,310 935,310 620,95" />
+    
+    <!-- Chimney on right roof slope -->
+    <polygon points="810,180 830,180 830,250 810,232" />
+  </g>
+</svg>
